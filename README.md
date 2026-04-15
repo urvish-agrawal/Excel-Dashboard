@@ -8,7 +8,7 @@ This dashboard uses **Pivot Tables, Pivot Charts, Slicers, and VBA automation** 
 
 ## 📷 Dashboard Preview
 
-![Excel-Dashboard](Dashboard.png)
+![Excel-Dashboard](Sales_dashboard.png)
 
 ---
 
